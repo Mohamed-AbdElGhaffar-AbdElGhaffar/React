@@ -1,0 +1,12 @@
+.Home{
+    background-color: #1abc9c; 
+    margin-top: 100px; 
+    min-height: 85vh;
+}
+.Home img{
+    width: 250px;
+}
+.Home .line{
+    height: 4px; 
+    width: 80px;
+}
